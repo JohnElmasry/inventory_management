@@ -1,0 +1,10 @@
+﻿Element,Value,Unit
+Total Quantity Needed,740,Ton
+Storage Cost ,150,LE / Month / Ton
+Handling Cost,200,LE / Ton
+Taxes & Insurance,100, LE / Ton
+"Damage, theft",1%,of Item Price / Month
+Order Cost,-100,LE / Ton
+Interest Rate,0.008333333,
+Purchase Cost,0.02,Percent / PO
+Inventory Size,400,
