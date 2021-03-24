@@ -33,4 +33,4 @@ So there must be the optimum point wich reduce the the cost to its minimal
 * You can use the Excel sheet (inventory_management) for your manual trials, but don't forget to match the unit prices between inventory_management and predicted prices
 
 
-
+[code]: https://github.com/JohnElmasry/inventory_management/blob/master/Inventory%20Management.py
